@@ -18,3 +18,8 @@ git add .
 git commit -m "feat: фича нужно название таске которую вы выполнили"
 git push origin <имя вашей ветки>
 ```
+
+Чтобы установить библиотеку:
+```
+pip install -r requirements.txt
+```
