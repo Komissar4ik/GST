@@ -23,3 +23,8 @@ git push origin <имя вашей ветки>
 ```
 pip install -r requirements.txt
 ```
+
+Чтобы использовать мою часть:
+```
+python gost_checks.py <имя файла с расширением>
+```
